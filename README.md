@@ -1,9 +1,9 @@
 ## Hi there 👋
-🔭 I’m currently working on Data Analytics, Flutter Development, and IoT projects.
-🌱 I’m currently learning Advanced Machine Learning, Cloud Computing, and Scalable Data Solutions.
-👯 I’m looking to collaborate on AI, Data Science, and Flutter-based applications.
-🤔 I’m looking for help with optimizing ML models and cloud integration.
-💬 Ask me about Python, Data Analysis, Machine Learning, Flutter, and Cloud Computing.
+  -🔭 I’m currently working on Data Analytics, Flutter Development, and IoT projects.
+  -🌱 I’m currently learning Advanced Machine Learning, Cloud Computing, and Scalable Data Solutions.
+  -👯 I’m looking to collaborate on AI, Data Science, and Flutter-based applications.
+  -🤔 I’m looking for help with optimizing ML models and cloud integration.
+  -💬 Ask me about Python, Data Analysis, Machine Learning, Flutter, and Cloud Computing.
 
 <!--
 **yogesh0519/YOGESH0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
